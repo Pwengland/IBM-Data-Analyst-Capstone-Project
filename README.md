@@ -6,7 +6,7 @@ This project was completed as part of the IBM Data Analyst Professional Certific
 The objective was to use data analysis techniques to investigate a real-world dataset. These included data collection, data wrangling, exploratory data analysis, data visualisation, and reporting.
 
 ## Data
-2024 Stack Overflow Developer Survey
+2024 Stack Overflow Developer Survey - 
 [Download the original survey dataset(.csv)](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv)
 
 ## Objectives
@@ -32,4 +32,5 @@ The objective was to use data analysis techniques to investigate a real-world da
 ## Files
 
 ## Acknowledgements
-With thanks to IBM for providing this course material.
+IBM Data Analyst Capstone Project
+2024 Stack Overflow Developer Survey
