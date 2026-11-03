@@ -9,7 +9,7 @@ The objective was to use data analysis techniques to investigate a real-world da
 2024 Stack Overflow Developer Survey - 
 [Download the original survey dataset(.csv)](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv)
 
-Dataset Variable Information:
+Dataset Key Variable Information:
 Column name|Question text
 ---|---
 ResponseId|Randomized respondent ID number.
