@@ -43,7 +43,7 @@ The main objectives of this project were to:
 - The USA was found to provide the highest mean annual compensation 
 
 ## Files
-- IBM_Data_Analyst_Capstone.ipynb - Main Jupyter Notebook containing data cleaning, exploratory analysis, visualisations, and findings
+- IBM_Data_Analyst_Capstone.ipynb - Main Jupyter Notebook
 
 ## Acknowledgements
 - IBM Data Analyst Capstone Project
